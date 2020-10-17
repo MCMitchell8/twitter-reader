@@ -26,6 +26,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/kbrpeYiXkq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Notes
+The third video was a bit hard to follow. The code seemed to have extra features not shown in part 1.
+
 
 # Part 1
 
@@ -51,4 +54,4 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/FuJqKakMB7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
-There are sometimes problems with the tweet viewing
+The rows are blank in the part one gif because my I was not following anyone
