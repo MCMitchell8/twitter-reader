@@ -1,6 +1,33 @@
 # Project 3 - Twitter Reader
 
-Twitter Reader is a basic twitter app to read your tweets.
+# Part II
+
+Twitter reader is an app that allows you view, compose, favorite, and retweet your tweets.
+
+Time spent: 12 hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
+
+The following **bonus** features are in progress:
+
+- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [ ] User can view their profile in a profile tab. (3pts)
+- [ ] User sees embedded images in tweet if available. (3pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+# Part 1
 
 ## User Stories
 
